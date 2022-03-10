@@ -1,0 +1,22 @@
+{
+  "name": "graphake-directives",
+  "version": "0.1.0",
+  "description": "This repository captures the declarative syntax for GraphQL schema directives that power the creation of the server with dummy data.",
+  "main": "index.js",
+  "repository": "git@github.com:graphake/directives.git",
+  "author": "Rudy <rudyyazdi@gmail.com>",
+  "license": "Elastic License 2.0",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "graphql": "^16.3.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  }
+}
