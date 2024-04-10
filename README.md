@@ -4,10 +4,10 @@
 
 # The Goal
 
-This repository captures the declarative syntax for GraphQL schema directives that power the creation of the server with dummy data.
+This library provides a declarative syntax for an existing GraphQL schema that powers the creation of a server with dummy data.
 
 - This repository only encapsulates graphake's syntax guidelines and does not include the implementation.
-- This repository is in progress and is not ready for use yet.
+- This repository is in progress and is not ready for production use yet.
 
 # Functionality
 
